@@ -1,0 +1,11 @@
+body {
+    background-image: url(images/3.png) ;
+}
+
+.container {
+    width: 30%;
+    margin-top: 10%;
+    box-shadow: 0 3px 20px green;
+    padding: 40px;
+    background-color: #fff;
+}
